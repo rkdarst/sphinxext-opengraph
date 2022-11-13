@@ -5,7 +5,7 @@ with open("README.md", encoding="utf-8") as readme:
 
 setuptools.setup(
     name="sphinxext-opengraph",
-    use_scm_version=True,
+    version='0.rkd.dev1',
     setup_requires=["setuptools_scm"],
     author="Itay Ziv",
     author_email="itay220204@gmail.com",
